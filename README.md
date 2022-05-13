@@ -1,12 +1,3 @@
-<<<<<<< Updated upstream
-# QOscope
-
-# Introduction
-
-# Requirements
-
-# Installation and usage
-=======
 
 # qoscope
 
@@ -70,4 +61,3 @@ If anyone wonders about the equation I used for baud prescale (to avoid rounding
  or wants useful literature for AVR and USART, for example [AVR articles](http://www.fourwalledcubicle.com/AVRArticles.php) 
  are a pretty good source within a few topics.
 
->>>>>>> Stashed changes
