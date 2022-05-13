@@ -3,7 +3,7 @@ from pathlib import Path
 import sys
 import os
 
-from controller import Controller
+from qoscope.controller import Controller
 
 os.environ['QT_QUICK_CONTROLS_MATERIAL_VARIANT'] = "Dense"
 
